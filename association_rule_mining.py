@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Jason Rowley
-# FILENAME: title of the source file
+# FILENAME: association_rule_mining.py
 # SPECIFICATION: description of the program
 # FOR: CS 4210- Assignment #5
 # TIME SPENT: how long it took you to complete the assignment
